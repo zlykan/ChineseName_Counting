@@ -1,0 +1,2 @@
+# ChineseName_Counting
+根据三才五格计算名字笔画数的最佳组合
